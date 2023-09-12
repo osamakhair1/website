@@ -1,3 +1,4 @@
 
 const a = 4;
-console.log(a);
+const e = 5;
+console.log(a+e+a+e+e);
